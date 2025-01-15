@@ -1,0 +1,25 @@
+body
+{
+    margin: 0;
+    background-color: black;
+}
+
+h1
+{
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+
+#myBox
+{
+    background-color: lightblue;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    font-size: 7.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
